@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blood Connect | E-Blood Bank System</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    #map { width: 100%; height: 85vh; }
+    #controls {
+      padding: 10px;
+      background-color: #f2f2f2;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    input, button { padding: 8px; font-size: 16px; }
+    #info {
+      background: #ffffff;
+      border: 1px solid #e0e0e0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      border-radius: 8px;
+      margin: 8px 10px 0 10px;
+      padding: 10px 12px;
+      display: none;
+    }
+    #info h3 { margin: 0 0 6px 0; font-size: 16px; }
+    #info .grid { display: grid; grid-template-columns: repeat(4, minmax(140px, 1fr)); gap: 8px; }
+    #info .card {
+      background: #f9fafb;
+      border: 1px solid #ececec;
+      border-radius: 6px;
+      padding: 8px;
+    }
+    #info .label { font-weight: bold; font-size: 13px; margin-bottom: 4px; color: #333; }
+    #info .value { font-size: 13px; color: #555; }
+  </style>
+</head>
+<body>
+
+<div id="controls">
+  <input type="text" id="start" placeholder="Enter Start Location" />
+  <input type="text" id="end" placeholder="Enter Destination" />
+  <button onclick="findRoute()">Get Route</button>
+</div>
+
+<div id="info">
+  <h3>Estimated Travel Details</h3>
+  <div class="grid">
+    <div class="card">
+      <div class="label">Car</div>
+      <div class="value" id="carInfo">—</div>
+    </div>
+    <div class="card">
+      <div class="label">Bike</div>
+      <div class="value" id="bikeInfo">—</div>
+    </div>
+    <div class="card">
+      <div class="label">Air</div>
+      <div class="value" id="airInfo">—</div>
+    </div>
+  </div>
+</div>
+
+<div id="map"></div>
+
+<script>
+  const map = L.map('map').setView([20.5937, 78.9629], 5); // India center
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  let routeLayer, startMarker, endMarker;
+
+  async function geocode(place) {
+    const res = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(place)}`);
+    const data = await res.json();
+    if (data.length > 0) {
+      return { lat: parseFloat(data[0].lat), lon: parseFloat(data[0].lon), display_name: data[0].display_name };
+    } else {
+      throw new Error(`Location not found: ${place}`);
+    }
+  }
+
+  async function findRoute() {
+    const startInput = document.getElementById('start').value.trim();
+    const endInput = document.getElementById('end').value.trim();
+    if (!startInput || !endInput) return alert("Please enter both start and destination locations.");
+
+    try {
+      const start = await geocode(startInput);
+      const end = await geocode(endInput);
+
+      if (startMarker) map.removeLayer(startMarker);
+      if (endMarker) map.removeLayer(endMarker);
+      if (routeLayer) map.removeLayer(routeLayer);
+
+      startMarker = L.marker([start.lat, start.lon]).addTo(map).bindPopup("Start: " + start.display_name).openPopup();
+      endMarker = L.marker([end.lat, end.lon]).addTo(map).bindPopup("Destination: " + end.display_name);
+
+      const apiKey = 'a8994c4f-db46-4255-a799-aa6412cb631f'; // replace with valid GraphHopper key
+      const url = `https://graphhopper.com/api/1/route?point=${start.lat},${start.lon}&point=${end.lat},${end.lon}&vehicle=car&locale=en&points_encoded=false&key=${apiKey}`;
+      const response = await fetch(url);
+      const json = await response.json();
+
+      if (!json.paths || json.paths.length === 0) return alert("No route found.");
+
+      const path = json.paths[0];
+      const coords = path.points.coordinates.map(c => [c[1], c[0]]);
+      routeLayer = L.polyline(coords, { color: 'blue', weight: 5 }).addTo(map);
+      map.fitBounds(routeLayer.getBounds());
+
+      const carDistance = path.distance;
+      const carDuration = path.time;
+
+      // Bike route
+      let bikeDistance = null, bikeDuration = null;
+      try {
+        const bikeUrl = `https://graphhopper.com/api/1/route?point=${start.lat},${start.lon}&point=${end.lat},${end.lon}&vehicle=bike&locale=en&points_encoded=false&key=${apiKey}`;
+        const bikeRes = await fetch(bikeUrl);
+        const bikeJson = await bikeRes.json();
+        if (bikeJson.paths && bikeJson.paths.length > 0) {
+          bikeDistance = bikeJson.paths[0].distance;
+          bikeDuration = bikeJson.paths[0].time;
+        }
+      } catch (e) { }
+
+      const airDistance = haversineMeters(start.lat, start.lon, end.lat, end.lon);
+
+      const bikeAvgKmh = 15;
+      if (bikeDistance == null) {
+        bikeDistance = carDistance ?? airDistance;
+        bikeDuration = (bikeDistance/1000)/bikeAvgKmh*3600*1000;
+      }
+
+      const airAvgKmh = 800;
+      const airDuration = (airDistance/1000)/airAvgKmh*3600*1000;
+
+      updateInfoCard({
+        car: { distance: carDistance, duration: carDuration },
+        bike: { distance: bikeDistance, duration: bikeDuration },
+        auto: { distance: autoDistance, duration: autoDuration },
+        air: { distance: airDistance, duration: airDuration }
+      });
+
+    } catch (err) {
+      console.error(err);
+      alert("Error: " + err.message);
+    }
+  }
+
+  function haversineMeters(lat1, lon1, lat2, lon2) {
+    const R = 6371000;
+    const toRad = v => v*Math.PI/180;
+    const dLat = toRad(lat2-lat1);
+    const dLon = toRad(lon2-lon1);
+    const a = Math.sin(dLat/2)**2 + Math.cos(toRad(lat1))*Math.cos(toRad(lat2))*Math.sin(dLon/2)**2;
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  }
+
+  function formatKm(m) { if (m==null) return '—'; const km=m/1000; return km<1?`${m.toFixed(0)} m`:`${km.toFixed(1)} km`; }
+  function formatDuration(ms) { 
+    if (ms==null || !isFinite(ms)) return '—';
+    const totalSec=Math.round(ms/1000);
+    const h=Math.floor(totalSec/3600);
+    const m=Math.floor((totalSec%3600)/60);
+    const s=totalSec%60;
+    if(h>0) return `${h}h ${m}m`;
+    if(m>0) return `${m}m ${s}s`;
+    return `${s}s`;
+  }
+
+  function updateInfoCard(modes) {
+    document.getElementById('carInfo').textContent = `${formatKm(modes.car.distance)} • ${formatDuration(modes.car.duration)}`;
+    document.getElementById('bikeInfo').textContent = `${formatKm(modes.bike.distance)} • ${formatDuration(modes.bike.duration)}`;
+    document.getElementById('autoInfo').textContent = `${formatKm(modes.auto.distance)} • ${formatDuration(modes.auto.duration)}`;
+    document.getElementById('airInfo').textContent = `${formatKm(modes.air.distance)} • ${formatDuration(modes.air.duration)}`;
+    document.getElementById('info').style.display = 'block';
+  }
+</script>
+
+</body>
+</html>

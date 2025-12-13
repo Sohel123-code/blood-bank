@@ -1,0 +1,1747 @@
+{
+    "Andhra Pradesh": [
+      {
+        "name": "District Blood Center - Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "MVP Colony, Visakhapatnam",
+        "phone": "+91-9010000101",
+        "blood_groups_available": ["A+", "O+", "B+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:00:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Dwaraka Nagar, Visakhapatnam",
+        "phone": "+91-9010000102",
+        "blood_groups_available": ["O+", "O-", "A+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T09:25:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Visakhapatnam West",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Madhurawada, Visakhapatnam",
+        "phone": "+91-9010000103",
+        "blood_groups_available": ["A+", "B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T11:10:00Z"
+      },
+      {
+        "name": "LifeCare Blood Point - Visakhapatnam North",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Gajuwaka, Visakhapatnam",
+        "phone": "+91-9010000104",
+        "blood_groups_available": ["O+", "AB-", "B+"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T08:50:00Z"
+      },
+      {
+        "name": "RedLife Blood Unit - Seethammadhara",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Seethammadhara, Visakhapatnam",
+        "phone": "+91-9010000105",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T12:05:00Z"
+      },
+      {
+        "name": "Apollo Community Bank - Rushikonda",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Rushikonda, Visakhapatnam",
+        "phone": "+91-9010000106",
+        "blood_groups_available": ["A-", "B-", "O-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T07:45:00Z"
+      },
+      {
+        "name": "St. Mary's Blood Centre - Gopalapatnam",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Gopalapatnam, Visakhapatnam",
+        "phone": "+91-9010000107",
+        "blood_groups_available": ["AB+", "O+", "A+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:45:00Z"
+      },
+      {
+        "name": "Harbourside Blood Bank - Port Area",
+        "state": "Andhra Pradesh",
+        "district": "Visakhapatnam",
+        "location": "Port Area, Visakhapatnam",
+        "phone": "+91-9010000108",
+        "blood_groups_available": ["O+", "B+", "A+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:00:00Z"
+      },
+  
+      {
+        "name": "RedCross Blood Bank - Vijayawada Central",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Benz Circle, Vijayawada",
+        "phone": "+91-9010000201",
+        "blood_groups_available": ["A+", "B+", "O+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:50:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Vijayawada",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Governorpet, Vijayawada",
+        "phone": "+91-9010000202",
+        "blood_groups_available": ["O+", "AB-", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:30:00Z"
+      },
+      {
+        "name": "NTR Health Blood Bank - Mogalrajapuram",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Mogalrajapuram, Vijayawada",
+        "phone": "+91-9010000203",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:15:00Z"
+      },
+      {
+        "name": "LifeStream Blood Point - Auto Nagar",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Auto Nagar, Vijayawada",
+        "phone": "+91-9010000204",
+        "blood_groups_available": ["A-", "B-", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:55:00Z"
+      },
+      {
+        "name": "Sri Durga Blood Centre - Benz Circle",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Benz Circle, Vijayawada",
+        "phone": "+91-9010000205",
+        "blood_groups_available": ["A+", "B+", "O+", "AB-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:30:00Z"
+      },
+      {
+        "name": "City Hospital Blood Bank - Governorpet",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Governorpet, Vijayawada",
+        "phone": "+91-9010000206",
+        "blood_groups_available": ["O+", "O-", "A+"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T08:05:00Z"
+      },
+      {
+        "name": "GreenLife Blood Unit - Kanakadurgamma Rd",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Kanakadurgamma Rd, Vijayawada",
+        "phone": "+91-9010000207",
+        "blood_groups_available": ["B+", "AB+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:40:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Vijayawada West",
+        "state": "Andhra Pradesh",
+        "district": "Vijayawada",
+        "location": "Moghalrajapuram, Vijayawada",
+        "phone": "+91-9010000208",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:20:00Z"
+      },
+  
+      {
+        "name": "Guntur Central Blood Bank",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Arundelpet, Guntur",
+        "phone": "+91-9010000301",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:10:00Z"
+      },
+      {
+        "name": "CityCare Blood Bank - Guntur",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Brodipet, Guntur",
+        "phone": "+91-9010000302",
+        "blood_groups_available": ["O+", "AB+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:40:00Z"
+      },
+      {
+        "name": "Lifeline Blood Centre - Guntur North",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Patamata, Guntur",
+        "phone": "+91-9010000303",
+        "blood_groups_available": ["A+", "A-", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:05:00Z"
+      },
+      {
+        "name": "St. John's Blood Bank - Guntur East",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Guntur East, Guntur",
+        "phone": "+91-9010000304",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:35:00Z"
+      },
+      {
+        "name": "RedLife Blood Unit - Guntur Central",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Waddepally Rd, Guntur",
+        "phone": "+91-9010000305",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:00:00Z"
+      },
+      {
+        "name": "Apollo Blood Centre - Guntur",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Near Guntur General Hospital",
+        "phone": "+91-9010000306",
+        "blood_groups_available": ["O+", "A+", "B-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:55:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Guntur West",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Tadepalle Rd, Guntur",
+        "phone": "+91-9010000307",
+        "blood_groups_available": ["A+", "AB+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:15:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Guntur Suburban",
+        "state": "Andhra Pradesh",
+        "district": "Guntur",
+        "location": "Vepagunta, Guntur",
+        "phone": "+91-9010000308",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:50:00Z"
+      },
+  
+      {
+        "name": "Krishna District Blood Bank - Machilipatnam",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Machilipatnam Town, Krishna",
+        "phone": "+91-9010000401",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:35:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Vijayawada Sub",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Gudivada Rd, Krishna",
+        "phone": "+91-9010000402",
+        "blood_groups_available": ["O+", "AB+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:05:00Z"
+      },
+      {
+        "name": "Lifeline Blood Unit - Krishna East",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Nuzvid, Krishna",
+        "phone": "+91-9010000403",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:20:00Z"
+      },
+      {
+        "name": "HealthPoint Blood Bank - Machilipatnam",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Manginapudi Rd, Krishna",
+        "phone": "+91-9010000404",
+        "blood_groups_available": ["A+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:40:00Z"
+      },
+      {
+        "name": "RedCross Satellite Bank - Krishna",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Pedana, Krishna",
+        "phone": "+91-9010000405",
+        "blood_groups_available": ["B+", "O+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:05:00Z"
+      },
+      {
+        "name": "Community Blood Point - Krishna North",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Vuyyuru, Krishna",
+        "phone": "+91-9010000406",
+        "blood_groups_available": ["O+", "B+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:00:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Gudivada",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Gudivada Town, Krishna",
+        "phone": "+91-9010000407",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:25:00Z"
+      },
+      {
+        "name": "St. Anne's Blood Centre - Krishna West",
+        "state": "Andhra Pradesh",
+        "district": "Krishna",
+        "location": "Gudlavalleru, Krishna",
+        "phone": "+91-9010000408",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:45:00Z"
+      },
+  
+      {
+        "name": "West Godavari Blood Bank - Eluru",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Eluru Main Road, West Godavari",
+        "phone": "+91-9010000501",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:00:00Z"
+      },
+      {
+        "name": "Community Blood Unit - West Godavari",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Bhimavaram, West Godavari",
+        "phone": "+91-9010000502",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:10:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Tadepalligudem",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Tadepalligudem, West Godavari",
+        "phone": "+91-9010000503",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:30:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Kovvur",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Kovvur Rd, West Godavari",
+        "phone": "+91-9010000504",
+        "blood_groups_available": ["O+", "B+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:20:00Z"
+      },
+      {
+        "name": "LifeCare Blood Point - Palakollu",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Palakollu Town, West Godavari",
+        "phone": "+91-9010000505",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:15:00Z"
+      },
+      {
+        "name": "City Hospital Blood Bank - Eluru East",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Eluru East, West Godavari",
+        "phone": "+91-9010000506",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:40:00Z"
+      },
+      {
+        "name": "GreenCross Blood Unit - West Godavari North",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Narasapur, West Godavari",
+        "phone": "+91-9010000507",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:55:00Z"
+      },
+      {
+        "name": "Regional Blood Centre - West Godavari South",
+        "state": "Andhra Pradesh",
+        "district": "West Godavari",
+        "location": "Eluru South, West Godavari",
+        "phone": "+91-9010000508",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:30:00Z"
+      },
+  
+      {
+        "name": "East Godavari Blood Bank - Kakinada",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Kakinada Main, East Godavari",
+        "phone": "+91-9010000601",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:05:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Rajahmundry",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Rajahmundry, East Godavari",
+        "phone": "+91-9010000602",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:00:00Z"
+      },
+      {
+        "name": "Lifeline Blood Unit - East Godavari North",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Peddapuram, East Godavari",
+        "phone": "+91-9010000603",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:10:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - East Godavari South",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Kakinada Port Area, East Godavari",
+        "phone": "+91-9010000604",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:15:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Tuni",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Tuni Town, East Godavari",
+        "phone": "+91-9010000605",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:25:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Amalapuram",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Amalapuram, East Godavari",
+        "phone": "+91-9010000606",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:45:00Z"
+      },
+      {
+        "name": "Harbor Hospital Blood Unit - Kakinada East",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Kakinada East, East Godavari",
+        "phone": "+91-9010000607",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:20:00Z"
+      },
+      {
+        "name": "St. John's Blood Point - East Godavari West",
+        "state": "Andhra Pradesh",
+        "district": "East Godavari",
+        "location": "Mummidivaram, East Godavari",
+        "phone": "+91-9010000608",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:55:00Z"
+      },
+  
+      {
+        "name": "Nellore Central Blood Bank",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Kamalapuram Rd, Nellore",
+        "phone": "+91-9010000701",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:15:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Nellore West",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Sullurpeta Rd, Nellore",
+        "phone": "+91-9010000702",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:35:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Nellore East",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Gudur Rd, Nellore",
+        "phone": "+91-9010000703",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:25:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Nellore Central",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Kandukur Rd, Nellore",
+        "phone": "+91-9010000704",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:05:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Nellore South",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Nellore South, Nellore",
+        "phone": "+91-9010000705",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:35:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Atmakur",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Atmakur, Nellore",
+        "phone": "+91-9010000706",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:55:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Nellore North",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Nellore North, Nellore",
+        "phone": "+91-9010000707",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:10:00Z"
+      },
+      {
+        "name": "St. Agnes Blood Point - Nellore West",
+        "state": "Andhra Pradesh",
+        "district": "Nellore",
+        "location": "Nellore West, Nellore",
+        "phone": "+91-9010000708",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:40:00Z"
+      },
+  
+      {
+        "name": "Chittoor District Blood Bank - Chittoor",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Tirupati Rd, Chittoor",
+        "phone": "+91-9010000801",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:45:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Chittoor Central",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Chittoor Town, Chittoor",
+        "phone": "+91-9010000802",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:55:00Z"
+      },
+      {
+        "name": "Lifeline Blood Unit - Tirupati",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Tirupati, Chittoor",
+        "phone": "+91-9010000803",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:50:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Punganur",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Punganur, Chittoor",
+        "phone": "+91-9010000804",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:30:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Chittoor West",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Palamaner, Chittoor",
+        "phone": "+91-9010000805",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:45:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Chittoor North",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Nagari, Chittoor",
+        "phone": "+91-9010000806",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:05:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Chittoor South",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Bangarupalem, Chittoor",
+        "phone": "+91-9010000807",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:20:00Z"
+      },
+      {
+        "name": "St. Peter's Blood Point - Tirupati East",
+        "state": "Andhra Pradesh",
+        "district": "Chittoor",
+        "location": "Tirupati East, Chittoor",
+        "phone": "+91-9010000808",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:20:00Z"
+      },
+  
+      {
+        "name": "YSR Kadapa Blood Bank - Kadapa",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "YSR Kadapa Town",
+        "phone": "+91-9010000901",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:35:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Kadapa Central",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Kadapa Central, Kadapa",
+        "phone": "+91-9010000902",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:15:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Jammalamadugu",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Jammalamadugu, Kadapa",
+        "phone": "+91-9010000903",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:45:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Badvel",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Badvel, Kadapa",
+        "phone": "+91-9010000904",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:10:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Kadapa West",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Kadapa West, Kadapa",
+        "phone": "+91-9010000905",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:55:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Kadapa North",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Proddatur Rd, Kadapa",
+        "phone": "+91-9010000906",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:25:00Z"
+      },
+      {
+        "name": "St. Francis Blood Point - Kadapa South",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Kadapa South, Kadapa",
+        "phone": "+91-9010000907",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:05:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Kadapa East",
+        "state": "Andhra Pradesh",
+        "district": "Kadapa",
+        "location": "Kadapa East, Kadapa",
+        "phone": "+91-9010000908",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:00:00Z"
+      },
+  
+      {
+        "name": "Anantapur District Blood Bank - Anantapur",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Anantapur Town, Anantapur",
+        "phone": "+91-9010001001",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:20:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Anantapur Central",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Station Rd, Anantapur",
+        "phone": "+91-9010001002",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:00:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Anantapur West",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Puttaparthi Rd, Anantapur",
+        "phone": "+91-9010001003",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:35:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Dharmavaram",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Dharmavaram, Anantapur",
+        "phone": "+91-9010001004",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:00:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Anantapur East",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Anantapur East, Anantapur",
+        "phone": "+91-9010001005",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:05:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Anantapur North",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Timmapuram, Anantapur",
+        "phone": "+91-9010001006",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:10:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Anantapur South",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Anantapur South, Anantapur",
+        "phone": "+91-9010001007",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:30:00Z"
+      },
+      {
+        "name": "St. Mary's Blood Point - Anantapur West",
+        "state": "Andhra Pradesh",
+        "district": "Anantapur",
+        "location": "Anantapur West, Anantapur",
+        "phone": "+91-9010001008",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:10:00Z"
+      },
+  
+      {
+        "name": "Kurnool District Blood Bank - Kurnool",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Kurnool Main, Kurnool",
+        "phone": "+91-9010001101",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:30:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Kurnool Central",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Kurnool Central, Kurnool",
+        "phone": "+91-9010001102",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:05:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Adoni",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Adoni Town, Kurnool",
+        "phone": "+91-9010001103",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:15:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Nandyal",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Nandyal, Kurnool",
+        "phone": "+91-9010001104",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:25:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Kurnool West",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Kurnool West, Kurnool",
+        "phone": "+91-9010001105",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:20:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Kurnool North",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Kurnool North, Kurnool",
+        "phone": "+91-9010001106",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:05:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Kurnool South",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Kurnool South, Kurnool",
+        "phone": "+91-9010001107",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:00:00Z"
+      },
+      {
+        "name": "Harbor Hospital Blood Unit - Kurnool East",
+        "state": "Andhra Pradesh",
+        "district": "Kurnool",
+        "location": "Kurnool East, Kurnool",
+        "phone": "+91-9010001108",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:05:00Z"
+      },
+  
+      {
+        "name": "Srikakulam District Blood Bank - Srikakulam",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Srikakulam Town, Srikakulam",
+        "phone": "+91-9010001201",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:55:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Srikakulam Central",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Srikakulam Central, Srikakulam",
+        "phone": "+91-9010001202",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:20:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Palasa",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Palasa Town, Srikakulam",
+        "phone": "+91-9010001203",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:40:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Tekkali",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Tekkali, Srikakulam",
+        "phone": "+91-9010001204",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:50:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Srikakulam West",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Srikakulam West, Srikakulam",
+        "phone": "+91-9010001205",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:40:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Srikakulam North",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Amadalavalasa, Srikakulam",
+        "phone": "+91-9010001206",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:15:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Srikakulam South",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Ichchapuram, Srikakulam",
+        "phone": "+91-9010001207",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:05:00Z"
+      },
+      {
+        "name": "St. Theresa's Blood Point - Srikakulam East",
+        "state": "Andhra Pradesh",
+        "district": "Srikakulam",
+        "location": "Srikakulam East, Srikakulam",
+        "phone": "+91-9010001208",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:25:00Z"
+      },
+  
+      {
+        "name": "Prakasam District Blood Bank - Ongole",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Ongole Town, Prakasam",
+        "phone": "+91-9010001301",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:00:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Kandukur",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Kandukur, Prakasam",
+        "phone": "+91-9010001302",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:35:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Markapur",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Markapur, Prakasam",
+        "phone": "+91-9010001303",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:10:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Chirala",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Chirala, Prakasam",
+        "phone": "+91-9010001304",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:20:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Prakasam West",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Kavali, Prakasam",
+        "phone": "+91-9010001305",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:00:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Prakasam North",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Markapur North, Prakasam",
+        "phone": "+91-9010001306",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:25:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Prakasam South",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Ongole East, Prakasam",
+        "phone": "+91-9010001307",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:15:00Z"
+      },
+      {
+        "name": "St. Luke's Blood Point - Prakasam East",
+        "state": "Andhra Pradesh",
+        "district": "Prakasam",
+        "location": "Addanki, Prakasam",
+        "phone": "+91-9010001308",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:35:00Z"
+      },
+  
+      {
+        "name": "Bapatla District Blood Bank - Bapatla",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Bapatla Town, Bapatla",
+        "phone": "+91-9010001401",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:05:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Bapatla Central",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Bapatla Central, Bapatla",
+        "phone": "+91-9010001402",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:20:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Repalle",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Repalle, Bapatla",
+        "phone": "+91-9010001403",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:00:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Parchur",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Parchur, Bapatla",
+        "phone": "+91-9010001404",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:10:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Bapatla West",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Chirala Rd, Bapatla",
+        "phone": "+91-9010001405",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:10:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Bapatla North",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Bapatla North, Bapatla",
+        "phone": "+91-9010001406",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:30:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Bapatla South",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Bapatla South, Bapatla",
+        "phone": "+91-9010001407",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:05:00Z"
+      },
+      {
+        "name": "St. Joseph's Blood Point - Bapatla East",
+        "state": "Andhra Pradesh",
+        "district": "Bapatla",
+        "location": "Bapatla East, Bapatla",
+        "phone": "+91-9010001408",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:15:00Z"
+      },
+  
+      {
+        "name": "Vizianagaram District Blood Bank - Vizianagaram",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Vizianagaram Town, Vizianagaram",
+        "phone": "+91-9010001501",
+        "blood_groups_available": ["A+", "O+", "B+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:25:00Z"
+      },
+      {
+        "name": "CityCare Blood Centre - Vizianagaram Central",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Vizianagaram Central, Vizianagaram",
+        "phone": "+91-9010001502",
+        "blood_groups_available": ["O+", "AB+", "A-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T08:45:00Z"
+      },
+      {
+        "name": "LifeCare Blood Unit - Bobbili",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Bobbili, Vizianagaram",
+        "phone": "+91-9010001503",
+        "blood_groups_available": ["A+", "B+", "O-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T10:05:00Z"
+      },
+      {
+        "name": "RedLife Blood Centre - Salur",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Salur, Vizianagaram",
+        "phone": "+91-9010001504",
+        "blood_groups_available": ["B+", "O+", "AB-"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T07:35:00Z"
+      },
+      {
+        "name": "Community Blood Bank - Vizianagaram West",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Gajuwaka Rd, Vizianagaram",
+        "phone": "+91-9010001505",
+        "blood_groups_available": ["A+", "O+", "B-"],
+        "availability": "Low Stock",
+        "last_updated": "2025-12-12T11:20:00Z"
+      },
+      {
+        "name": "Municipal Blood Bank - Vizianagaram North",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Vizianagaram North, Vizianagaram",
+        "phone": "+91-9010001506",
+        "blood_groups_available": ["O+", "A+", "AB+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T09:35:00Z"
+      },
+      {
+        "name": "Regional Blood Bank - Vizianagaram South",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Vizianagaram South, Vizianagaram",
+        "phone": "+91-9010001507",
+        "blood_groups_available": ["A+", "B+", "O+"],
+        "availability": "Available",
+        "last_updated": "2025-12-12T08:20:00Z"
+      },
+      {
+        "name": "St. Mark's Blood Point - Vizianagaram East",
+        "state": "Andhra Pradesh",
+        "district": "Vizianagaram",
+        "location": "Vizianagaram East, Vizianagaram",
+        "phone": "+91-9010001508",
+        "blood_groups_available": ["O+", "B+", "A-"],
+        "availability": "Critical",
+        "last_updated": "2025-12-12T06:50:00Z"
+      }
+    ],
+    "Telangana": [
+          {
+            "name": "Hyderabad Central Blood Bank",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Banjara Hills, Hyderabad",
+            "phone": "+91-9020000101",
+            "blood_groups_available": ["A+", "O+", "B+", "AB+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:00:00Z"
+          },
+          {
+            "name": "Secunderabad Municipal Blood Unit",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Secunderabad, Hyderabad",
+            "phone": "+91-9020000102",
+            "blood_groups_available": ["O+", "O-", "A+", "B-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T09:20:00Z"
+          },
+          {
+            "name": "CityCare Blood Centre - Jubilee Hills",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Jubilee Hills, Hyderabad",
+            "phone": "+91-9020000103",
+            "blood_groups_available": ["A+", "B+", "O+", "AB-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T11:15:00Z"
+          },
+          {
+            "name": "Apollo Blood Bank - Somajiguda",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Somajiguda, Hyderabad",
+            "phone": "+91-9020000104",
+            "blood_groups_available": ["O+", "AB-", "B+"],
+            "availability": "Critical",
+            "last_updated": "2025-12-12T08:45:00Z"
+          },
+          {
+            "name": "GreenLife Blood Point - Kukatpally",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Kukatpally, Hyderabad",
+            "phone": "+91-9020000105",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T12:05:00Z"
+          },
+          {
+            "name": "St. Mary's Blood Centre - Nampally",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Nampally, Hyderabad",
+            "phone": "+91-9020000106",
+            "blood_groups_available": ["A-", "B-", "O-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T07:40:00Z"
+          },
+          {
+            "name": "Lifeline Blood Bank - Gachibowli",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Gachibowli, Hyderabad",
+            "phone": "+91-9020000107",
+            "blood_groups_available": ["AB+", "O+", "A+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:35:00Z"
+          },
+          {
+            "name": "Regional Blood Unit - Secunderabad West",
+            "state": "Telangana",
+            "district": "Hyderabad",
+            "location": "Secunderabad West, Hyderabad",
+            "phone": "+91-9020000108",
+            "blood_groups_available": ["O+", "B+", "A+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:05:00Z"
+          },
+      
+          {
+            "name": "Ranga Reddy District Blood Bank - Ibrahimpatnam",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Ibrahimpatnam, Ranga Reddy",
+            "phone": "+91-9020000201",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:10:00Z"
+          },
+          {
+            "name": "CityCare Blood Centre - Maheshwaram",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Maheshwaram, Ranga Reddy",
+            "phone": "+91-9020000202",
+            "blood_groups_available": ["O+", "AB+", "A-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T08:05:00Z"
+          },
+          {
+            "name": "LifeCare Blood Unit - Shamshabad",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Shamshabad, Ranga Reddy",
+            "phone": "+91-9020000203",
+            "blood_groups_available": ["A+", "B+", "O-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:30:00Z"
+          },
+          {
+            "name": "RedLife Blood Centre - Chevella",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Chevella, Ranga Reddy",
+            "phone": "+91-9020000204",
+            "blood_groups_available": ["B+", "O+", "AB-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T07:25:00Z"
+          },
+          {
+            "name": "Community Blood Bank - Shadnagar",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Shadnagar, Ranga Reddy",
+            "phone": "+91-9020000205",
+            "blood_groups_available": ["A+", "O+", "B-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T11:05:00Z"
+          },
+          {
+            "name": "Municipal Blood Bank - Moinabad",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Moinabad, Ranga Reddy",
+            "phone": "+91-9020000206",
+            "blood_groups_available": ["O+", "A+", "AB+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:45:00Z"
+          },
+          {
+            "name": "Regional Blood Bank - Rajendranagar",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Rajendranagar, Ranga Reddy",
+            "phone": "+91-9020000207",
+            "blood_groups_available": ["A+", "B+", "O+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T08:15:00Z"
+          },
+          {
+            "name": "St. Teresa's Blood Point - Ibrahimpatnam West",
+            "state": "Telangana",
+            "district": "Ranga Reddy",
+            "location": "Ibrahimpatnam West, Ranga Reddy",
+            "phone": "+91-9020000208",
+            "blood_groups_available": ["O+", "B+", "A-"],
+            "availability": "Critical",
+            "last_updated": "2025-12-12T06:55:00Z"
+          },
+      
+          {
+            "name": "Medchal-Malkajgiri Blood Bank - Medchal",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Medchal Town, Medchal-Malkajgiri",
+            "phone": "+91-9020000301",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:00:00Z"
+          },
+          {
+            "name": "CityCare Blood Unit - Malkajgiri",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Malkajgiri, Medchal-Malkajgiri",
+            "phone": "+91-9020000302",
+            "blood_groups_available": ["O+", "AB+", "A-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T08:10:00Z"
+          },
+          {
+            "name": "LifeCare Blood Point - Uppal",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Uppal, Medchal-Malkajgiri",
+            "phone": "+91-9020000303",
+            "blood_groups_available": ["A+", "B+", "O-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:20:00Z"
+          },
+          {
+            "name": "RedLife Blood Centre - Balanagar",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Balanagar, Medchal-Malkajgiri",
+            "phone": "+91-9020000304",
+            "blood_groups_available": ["B+", "O+", "AB-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T07:30:00Z"
+          },
+          {
+            "name": "Community Blood Bank - Malkajgiri West",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Malkajgiri West, Medchal-Malkajgiri",
+            "phone": "+91-9020000305",
+            "blood_groups_available": ["A+", "O+", "B-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T11:00:00Z"
+          },
+          {
+            "name": "Municipal Blood Centre - Ghatkesar",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Ghatkesar, Medchal-Malkajgiri",
+            "phone": "+91-9020000306",
+            "blood_groups_available": ["O+", "A+", "AB+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:35:00Z"
+          },
+          {
+            "name": "Regional Blood Bank - Kapra",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Kapra, Medchal-Malkajgiri",
+            "phone": "+91-9020000307",
+            "blood_groups_available": ["A+", "B+", "O+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T08:05:00Z"
+          },
+          {
+            "name": "St. George's Blood Point - Medchal East",
+            "state": "Telangana",
+            "district": "Medchal-Malkajgiri",
+            "location": "Medchal East, Medchal-Malkajgiri",
+            "phone": "+91-9020000308",
+            "blood_groups_available": ["O+", "B+", "A-"],
+            "availability": "Critical",
+            "last_updated": "2025-12-12T06:40:00Z"
+          },
+      
+          {
+            "name": "Warangal Central Blood Bank",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Kazipet, Warangal",
+            "phone": "+91-9020000401",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:15:00Z"
+          },
+          {
+            "name": "CityCare Blood Centre - Hanamkonda",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Hanamkonda, Warangal",
+            "phone": "+91-9020000402",
+            "blood_groups_available": ["O+", "AB+", "A-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T08:20:00Z"
+          },
+          {
+            "name": "LifeCare Blood Unit - Warangal South",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Warangal South, Warangal",
+            "phone": "+91-9020000403",
+            "blood_groups_available": ["A+", "B+", "O-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:05:00Z"
+          },
+          {
+            "name": "RedLife Blood Centre - Eturunagaram",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Eturunagaram, Warangal",
+            "phone": "+91-9020000404",
+            "blood_groups_available": ["B+", "O+", "AB-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T07:40:00Z"
+          },
+          {
+            "name": "Community Blood Bank - Narsampet",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Narsampet, Warangal",
+            "phone": "+91-9020000405",
+            "blood_groups_available": ["A+", "O+", "B-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T11:20:00Z"
+          },
+          {
+            "name": "Municipal Blood Bank - Parkal",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Parkal, Warangal",
+            "phone": "+91-9020000406",
+            "blood_groups_available": ["O+", "A+", "AB+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:50:00Z"
+          },
+          {
+            "name": "Regional Blood Unit - Hasanparthy",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Hasanparthy, Warangal",
+            "phone": "+91-9020000407",
+            "blood_groups_available": ["A+", "B+", "O+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T08:30:00Z"
+          },
+          {
+            "name": "St. Peter's Blood Point - Kazipet East",
+            "state": "Telangana",
+            "district": "Warangal",
+            "location": "Kazipet East, Warangal",
+            "phone": "+91-9020000408",
+            "blood_groups_available": ["O+", "B+", "A-"],
+            "availability": "Critical",
+            "last_updated": "2025-12-12T06:20:00Z"
+          },
+      
+          {
+            "name": "Nizamabad Central Blood Bank",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Nizamabad Town, Nizamabad",
+            "phone": "+91-9020000501",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:05:00Z"
+          },
+          {
+            "name": "CityCare Blood Centre - Armoor",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Armoor, Nizamabad",
+            "phone": "+91-9020000502",
+            "blood_groups_available": ["O+", "AB+", "A-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T08:10:00Z"
+          },
+          {
+            "name": "LifeCare Blood Point - Bodhan",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Bodhan, Nizamabad",
+            "phone": "+91-9020000503",
+            "blood_groups_available": ["A+", "B+", "O-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:25:00Z"
+          },
+          {
+            "name": "RedLife Blood Centre - Banswada",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Banswada, Nizamabad",
+            "phone": "+91-9020000504",
+            "blood_groups_available": ["B+", "O+", "AB-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T07:15:00Z"
+          },
+          {
+            "name": "Community Blood Bank - Jukkal",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Jukkal, Nizamabad",
+            "phone": "+91-9020000505",
+            "blood_groups_available": ["A+", "O+", "B-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T11:10:00Z"
+          },
+          {
+            "name": "Municipal Blood Unit - Metpally",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Metpally, Nizamabad",
+            "phone": "+91-9020000506",
+            "blood_groups_available": ["O+", "A+", "AB+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:35:00Z"
+          },
+          {
+            "name": "Regional Blood Bank - Jakranpally",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Jakranpally, Nizamabad",
+            "phone": "+91-9020000507",
+            "blood_groups_available": ["A+", "B+", "O+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T08:05:00Z"
+          },
+          {
+            "name": "St. Anne's Blood Point - Nizamabad East",
+            "state": "Telangana",
+            "district": "Nizamabad",
+            "location": "Nizamabad East, Nizamabad",
+            "phone": "+91-9020000508",
+            "blood_groups_available": ["O+", "B+", "A-"],
+            "availability": "Critical",
+            "last_updated": "2025-12-12T06:50:00Z"
+          },
+      
+          {
+            "name": "Khammam District Blood Bank - Khammam",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Khammam Town, Khammam",
+            "phone": "+91-9020000601",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:20:00Z"
+          },
+          {
+            "name": "CityCare Blood Centre - Sathupalli",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Sathupalli, Khammam",
+            "phone": "+91-9020000602",
+            "blood_groups_available": ["O+", "AB+", "A-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T08:25:00Z"
+          },
+          {
+            "name": "LifeCare Blood Unit - Madhira",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Madhira, Khammam",
+            "phone": "+91-9020000603",
+            "blood_groups_available": ["A+", "B+", "O-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:40:00Z"
+          },
+          {
+            "name": "RedLife Blood Centre - Kothagudem",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Kothagudem, Khammam",
+            "phone": "+91-9020000604",
+            "blood_groups_available": ["B+", "O+", "AB-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T07:10:00Z"
+          },
+          {
+            "name": "Community Blood Bank - Paloncha",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Paloncha, Khammam",
+            "phone": "+91-9020000605",
+            "blood_groups_available": ["A+", "O+", "B-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T11:00:00Z"
+          },
+          {
+            "name": "Municipal Blood Bank - Yellandu",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Yellandu, Khammam",
+            "phone": "+91-9020000606",
+            "blood_groups_available": ["O+", "A+", "AB+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:55:00Z"
+          },
+          {
+            "name": "Regional Blood Unit - Sathupalli West",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Sathupalli West, Khammam",
+            "phone": "+91-9020000607",
+            "blood_groups_available": ["A+", "B+", "O+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T08:30:00Z"
+          },
+          {
+            "name": "St. Joseph's Blood Point - Khammam East",
+            "state": "Telangana",
+            "district": "Khammam",
+            "location": "Khammam East, Khammam",
+            "phone": "+91-9020000608",
+            "blood_groups_available": ["O+", "B+", "A-"],
+            "availability": "Critical",
+            "last_updated": "2025-12-12T06:35:00Z"
+          },
+      
+          {
+            "name": "Karimnagar Central Blood Bank",
+            "state": "Telangana",
+            "district": "Karimnagar",
+            "location": "Karimnagar Town, Karimnagar",
+            "phone": "+91-9020000701",
+            "blood_groups_available": ["A+", "O+", "B+"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T09:30:00Z"
+          },
+          {
+            "name": "CityCare Blood Centre - Mancherial",
+            "state": "Telangana",
+            "district": "Karimnagar",
+            "location": "Mancherial, Karimnagar",
+            "phone": "+91-9020000702",
+            "blood_groups_available": ["O+", "AB+", "A-"],
+            "availability": "Low Stock",
+            "last_updated": "2025-12-12T08:15:00Z"
+          },
+          {
+            "name": "LifeCare Blood Unit - Karimnagar West",
+            "state": "Telangana",
+            "district": "Karimnagar",
+            "location": "Karimnagar West, Karimnagar",
+            "phone": "+91-9020000703",
+            "blood_groups_available": ["A+", "B+", "O-"],
+            "availability": "Available",
+            "last_updated": "2025-12-12T10:50:00Z"
+          }
+
+        ]
+      
+
+
+
+
+
+
+
+
+  }
+  

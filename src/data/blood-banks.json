@@ -1,0 +1,147 @@
+[
+  {
+    "id": "bb-01",
+    "name": "Delhi Central Blood Bank",
+    "state": "Delhi",
+    "district": "New Delhi",
+    "address": "Sector 8, RK Puram, New Delhi",
+    "contact": "+91-11-4000-1111",
+    "bloodGroups": {
+      "A+": 24,
+      "A-": 8,
+      "B+": 18,
+      "B-": 6,
+      "AB+": 10,
+      "AB-": 3,
+      "O+": 28,
+      "O-": 7
+    }
+  },
+  {
+    "id": "bb-02",
+    "name": "Mumbai Lifeline Blood Center",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "contact": "+91-22-4555-2211",
+    "bloodGroups": {
+      "A+": 20,
+      "A-": 5,
+      "B+": 22,
+      "B-": 7,
+      "AB+": 9,
+      "AB-": 2,
+      "O+": 30,
+      "O-": 8
+    }
+  },
+  {
+    "id": "bb-03",
+    "name": "Chennai Metro Blood Bank",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "address": "OMR, Sholinganallur, Chennai",
+    "contact": "+91-44-4888-9090",
+    "bloodGroups": {
+      "A+": 18,
+      "A-": 6,
+      "B+": 16,
+      "B-": 5,
+      "AB+": 7,
+      "AB-": 2,
+      "O+": 24,
+      "O-": 6
+    }
+  },
+  {
+    "id": "bb-04",
+    "name": "Bengaluru Care Blood Center",
+    "state": "Karnataka",
+    "district": "Bengaluru",
+    "address": "Whitefield Main Rd, Bengaluru",
+    "contact": "+91-80-4666-1122",
+    "bloodGroups": {
+      "A+": 16,
+      "A-": 6,
+      "B+": 20,
+      "B-": 6,
+      "AB+": 8,
+      "AB-": 3,
+      "O+": 26,
+      "O-": 6
+    }
+  },
+  {
+    "id": "bb-05",
+    "name": "Hyderabad Health Blood Bank",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "address": "Hitech City, Hyderabad",
+    "contact": "+91-40-4777-3344",
+    "bloodGroups": {
+      "A+": 17,
+      "A-": 5,
+      "B+": 19,
+      "B-": 6,
+      "AB+": 6,
+      "AB-": 2,
+      "O+": 25,
+      "O-": 7
+    }
+  },
+  {
+    "id": "bb-06",
+    "name": "Kolkata Eastern Blood Bank",
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "address": "Salt Lake Sector V, Kolkata",
+    "contact": "+91-33-4666-7788",
+    "bloodGroups": {
+      "A+": 15,
+      "A-": 4,
+      "B+": 17,
+      "B-": 5,
+      "AB+": 7,
+      "AB-": 2,
+      "O+": 23,
+      "O-": 5
+    }
+  },
+  {
+    "id": "bb-07",
+    "name": "Ahmedabad City Blood Center",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "address": "SG Highway, Ahmedabad",
+    "contact": "+91-79-4666-8899",
+    "bloodGroups": {
+      "A+": 14,
+      "A-": 4,
+      "B+": 18,
+      "B-": 6,
+      "AB+": 5,
+      "AB-": 1,
+      "O+": 20,
+      "O-": 5
+    }
+  },
+  {
+    "id": "bb-08",
+    "name": "Jaipur Heritage Blood Bank",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "address": "Tonk Rd, Jaipur",
+    "contact": "+91-141-4666-9988",
+    "bloodGroups": {
+      "A+": 13,
+      "A-": 4,
+      "B+": 15,
+      "B-": 5,
+      "AB+": 6,
+      "AB-": 2,
+      "O+": 19,
+      "O-": 5
+    }
+  }
+]
+

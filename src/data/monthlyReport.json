@@ -1,0 +1,1294 @@
+{
+  "month": "2025-11",
+  "generated_on": "2025-12-12T17:39:00.973286",
+  "states": [
+    {
+      "state_name": "Andhra Pradesh",
+      "month": "2025-11",
+      "total_hospitals_reporting": 45,
+      "hospitals_sample": [
+        {
+          "hospital_id": "AND-001",
+          "reported_cases": 7
+        },
+        {
+          "hospital_id": "AND-002",
+          "reported_cases": 1
+        },
+        {
+          "hospital_id": "AND-003",
+          "reported_cases": 47
+        },
+        {
+          "hospital_id": "AND-004",
+          "reported_cases": 17
+        },
+        {
+          "hospital_id": "AND-005",
+          "reported_cases": 15
+        }
+      ],
+      "diseases": {
+        "Dengue": 423,
+        "Malaria": 387,
+        "COVID-19": 140,
+        "H1N1": 240,
+        "Typhoid": 698,
+        "Chikungunya": 190
+      },
+      "total_cases": 2078,
+      "blood_groups_affected": {
+        "A+": 650,
+        "A-": 105,
+        "B+": 391,
+        "B-": 77,
+        "AB+": 54,
+        "AB-": 57,
+        "O+": 649,
+        "O-": 95
+      }
+    },
+    {
+      "state_name": "Arunachal Pradesh",
+      "month": "2025-11",
+      "total_hospitals_reporting": 45,
+      "hospitals_sample": [
+        {
+          "hospital_id": "ARU-001",
+          "reported_cases": 23
+        },
+        {
+          "hospital_id": "ARU-002",
+          "reported_cases": 10
+        },
+        {
+          "hospital_id": "ARU-003",
+          "reported_cases": 23
+        },
+        {
+          "hospital_id": "ARU-004",
+          "reported_cases": 22
+        },
+        {
+          "hospital_id": "ARU-005",
+          "reported_cases": 13
+        }
+      ],
+      "diseases": {
+        "Dengue": 489,
+        "Malaria": 162,
+        "COVID-19": 292,
+        "H1N1": 224,
+        "Typhoid": 209,
+        "Chikungunya": 75
+      },
+      "total_cases": 1451,
+      "blood_groups_affected": {
+        "A+": 367,
+        "A-": 86,
+        "B+": 271,
+        "B-": 72,
+        "AB+": 59,
+        "AB-": 55,
+        "O+": 459,
+        "O-": 82
+      }
+    },
+    {
+      "state_name": "Assam",
+      "month": "2025-11",
+      "total_hospitals_reporting": 34,
+      "hospitals_sample": [
+        {
+          "hospital_id": "ASS-001",
+          "reported_cases": 33
+        },
+        {
+          "hospital_id": "ASS-002",
+          "reported_cases": 16
+        },
+        {
+          "hospital_id": "ASS-003",
+          "reported_cases": 35
+        },
+        {
+          "hospital_id": "ASS-004",
+          "reported_cases": 0
+        },
+        {
+          "hospital_id": "ASS-005",
+          "reported_cases": 43
+        }
+      ],
+      "diseases": {
+        "Dengue": 176,
+        "Malaria": 185,
+        "COVID-19": 276,
+        "H1N1": 170,
+        "Typhoid": 62,
+        "Chikungunya": 162
+      },
+      "total_cases": 1031,
+      "blood_groups_affected": {
+        "A+": 266,
+        "A-": 59,
+        "B+": 179,
+        "B-": 40,
+        "AB+": 30,
+        "AB-": 31,
+        "O+": 384,
+        "O-": 42
+      }
+    },
+    {
+      "state_name": "Bihar",
+      "month": "2025-11",
+      "total_hospitals_reporting": 47,
+      "hospitals_sample": [
+        {
+          "hospital_id": "BIH-001",
+          "reported_cases": 30
+        },
+        {
+          "hospital_id": "BIH-002",
+          "reported_cases": 35
+        },
+        {
+          "hospital_id": "BIH-003",
+          "reported_cases": 10
+        },
+        {
+          "hospital_id": "BIH-004",
+          "reported_cases": 16
+        },
+        {
+          "hospital_id": "BIH-005",
+          "reported_cases": 33
+        }
+      ],
+      "diseases": {
+        "Dengue": 517,
+        "Malaria": 155,
+        "COVID-19": 297,
+        "H1N1": 129,
+        "Typhoid": 213,
+        "Chikungunya": 54
+      },
+      "total_cases": 1365,
+      "blood_groups_affected": {
+        "A+": 369,
+        "A-": 74,
+        "B+": 322,
+        "B-": 42,
+        "AB+": 37,
+        "AB-": 37,
+        "O+": 415,
+        "O-": 69
+      }
+    },
+    {
+      "state_name": "Chhattisgarh",
+      "month": "2025-11",
+      "total_hospitals_reporting": 56,
+      "hospitals_sample": [
+        {
+          "hospital_id": "CHH-001",
+          "reported_cases": 6
+        },
+        {
+          "hospital_id": "CHH-002",
+          "reported_cases": 15
+        },
+        {
+          "hospital_id": "CHH-003",
+          "reported_cases": 12
+        },
+        {
+          "hospital_id": "CHH-004",
+          "reported_cases": 12
+        },
+        {
+          "hospital_id": "CHH-005",
+          "reported_cases": 34
+        }
+      ],
+      "diseases": {
+        "Dengue": 785,
+        "Malaria": 71,
+        "COVID-19": 262,
+        "H1N1": 276,
+        "Typhoid": 655,
+        "Chikungunya": 40
+      },
+      "total_cases": 2089,
+      "blood_groups_affected": {
+        "A+": 624,
+        "A-": 93,
+        "B+": 354,
+        "B-": 72,
+        "AB+": 37,
+        "AB-": 43,
+        "O+": 786,
+        "O-": 80
+      }
+    },
+    {
+      "state_name": "Goa",
+      "month": "2025-11",
+      "total_hospitals_reporting": 42,
+      "hospitals_sample": [
+        {
+          "hospital_id": "GOA-001",
+          "reported_cases": 36
+        },
+        {
+          "hospital_id": "GOA-002",
+          "reported_cases": 33
+        },
+        {
+          "hospital_id": "GOA-003",
+          "reported_cases": 20
+        },
+        {
+          "hospital_id": "GOA-004",
+          "reported_cases": 16
+        },
+        {
+          "hospital_id": "GOA-005",
+          "reported_cases": 13
+        }
+      ],
+      "diseases": {
+        "Dengue": 1328,
+        "Malaria": 326,
+        "COVID-19": 58,
+        "H1N1": 73,
+        "Typhoid": 59,
+        "Chikungunya": 84
+      },
+      "total_cases": 1928,
+      "blood_groups_affected": {
+        "A+": 549,
+        "A-": 91,
+        "B+": 326,
+        "B-": 47,
+        "AB+": 22,
+        "AB-": 26,
+        "O+": 793,
+        "O-": 74
+      }
+    },
+    {
+      "state_name": "Gujarat",
+      "month": "2025-11",
+      "total_hospitals_reporting": 10,
+      "hospitals_sample": [
+        {
+          "hospital_id": "GUJ-001",
+          "reported_cases": 40
+        },
+        {
+          "hospital_id": "GUJ-002",
+          "reported_cases": 27
+        },
+        {
+          "hospital_id": "GUJ-003",
+          "reported_cases": 17
+        },
+        {
+          "hospital_id": "GUJ-004",
+          "reported_cases": 2
+        },
+        {
+          "hospital_id": "GUJ-005",
+          "reported_cases": 0
+        }
+      ],
+      "diseases": {
+        "Dengue": 185,
+        "Malaria": 584,
+        "COVID-19": 569,
+        "H1N1": 81,
+        "Typhoid": 194,
+        "Chikungunya": 80
+      },
+      "total_cases": 1693,
+      "blood_groups_affected": {
+        "A+": 385,
+        "A-": 78,
+        "B+": 395,
+        "B-": 58,
+        "AB+": 26,
+        "AB-": 30,
+        "O+": 651,
+        "O-": 70
+      }
+    },
+    {
+      "state_name": "Haryana",
+      "month": "2025-11",
+      "total_hospitals_reporting": 27,
+      "hospitals_sample": [
+        {
+          "hospital_id": "HAR-001",
+          "reported_cases": 49
+        },
+        {
+          "hospital_id": "HAR-002",
+          "reported_cases": 35
+        },
+        {
+          "hospital_id": "HAR-003",
+          "reported_cases": 26
+        },
+        {
+          "hospital_id": "HAR-004",
+          "reported_cases": 39
+        },
+        {
+          "hospital_id": "HAR-005",
+          "reported_cases": 47
+        }
+      ],
+      "diseases": {
+        "Dengue": 247,
+        "Malaria": 491,
+        "COVID-19": 121,
+        "H1N1": 103,
+        "Typhoid": 147,
+        "Chikungunya": 147
+      },
+      "total_cases": 1256,
+      "blood_groups_affected": {
+        "A+": 354,
+        "A-": 68,
+        "B+": 286,
+        "B-": 36,
+        "AB+": 21,
+        "AB-": 29,
+        "O+": 410,
+        "O-": 52
+      }
+    },
+    {
+      "state_name": "Himachal Pradesh",
+      "month": "2025-11",
+      "total_hospitals_reporting": 21,
+      "hospitals_sample": [
+        {
+          "hospital_id": "HIM-001",
+          "reported_cases": 2
+        },
+        {
+          "hospital_id": "HIM-002",
+          "reported_cases": 6
+        },
+        {
+          "hospital_id": "HIM-003",
+          "reported_cases": 38
+        },
+        {
+          "hospital_id": "HIM-004",
+          "reported_cases": 27
+        },
+        {
+          "hospital_id": "HIM-005",
+          "reported_cases": 22
+        }
+      ],
+      "diseases": {
+        "Dengue": 571,
+        "Malaria": 779,
+        "COVID-19": 105,
+        "H1N1": 40,
+        "Typhoid": 174,
+        "Chikungunya": 68
+      },
+      "total_cases": 1737,
+      "blood_groups_affected": {
+        "A+": 457,
+        "A-": 90,
+        "B+": 344,
+        "B-": 60,
+        "AB+": 41,
+        "AB-": 39,
+        "O+": 615,
+        "O-": 91
+      }
+    },
+    {
+      "state_name": "Jharkhand",
+      "month": "2025-11",
+      "total_hospitals_reporting": 48,
+      "hospitals_sample": [
+        {
+          "hospital_id": "JHA-001",
+          "reported_cases": 47
+        },
+        {
+          "hospital_id": "JHA-002",
+          "reported_cases": 11
+        },
+        {
+          "hospital_id": "JHA-003",
+          "reported_cases": 39
+        },
+        {
+          "hospital_id": "JHA-004",
+          "reported_cases": 36
+        },
+        {
+          "hospital_id": "JHA-005",
+          "reported_cases": 19
+        }
+      ],
+      "diseases": {
+        "Dengue": 645,
+        "Malaria": 94,
+        "COVID-19": 299,
+        "H1N1": 201,
+        "Typhoid": 129,
+        "Chikungunya": 7
+      },
+      "total_cases": 1375,
+      "blood_groups_affected": {
+        "A+": 429,
+        "A-": 68,
+        "B+": 294,
+        "B-": 25,
+        "AB+": 19,
+        "AB-": 19,
+        "O+": 476,
+        "O-": 45
+      }
+    },
+    {
+      "state_name": "Karnataka",
+      "month": "2025-11",
+      "total_hospitals_reporting": 59,
+      "hospitals_sample": [
+        {
+          "hospital_id": "KAR-001",
+          "reported_cases": 7
+        },
+        {
+          "hospital_id": "KAR-002",
+          "reported_cases": 29
+        },
+        {
+          "hospital_id": "KAR-003",
+          "reported_cases": 8
+        },
+        {
+          "hospital_id": "KAR-004",
+          "reported_cases": 29
+        },
+        {
+          "hospital_id": "KAR-005",
+          "reported_cases": 42
+        }
+      ],
+      "diseases": {
+        "Dengue": 231,
+        "Malaria": 418,
+        "COVID-19": 15,
+        "H1N1": 299,
+        "Typhoid": 8,
+        "Chikungunya": 157
+      },
+      "total_cases": 1128,
+      "blood_groups_affected": {
+        "A+": 361,
+        "A-": 66,
+        "B+": 218,
+        "B-": 37,
+        "AB+": 22,
+        "AB-": 23,
+        "O+": 361,
+        "O-": 40
+      }
+    },
+    {
+      "state_name": "Kerala",
+      "month": "2025-11",
+      "total_hospitals_reporting": 32,
+      "hospitals_sample": [
+        {
+          "hospital_id": "KER-001",
+          "reported_cases": 31
+        },
+        {
+          "hospital_id": "KER-002",
+          "reported_cases": 1
+        },
+        {
+          "hospital_id": "KER-003",
+          "reported_cases": 24
+        },
+        {
+          "hospital_id": "KER-004",
+          "reported_cases": 21
+        },
+        {
+          "hospital_id": "KER-005",
+          "reported_cases": 42
+        }
+      ],
+      "diseases": {
+        "Dengue": 365,
+        "Malaria": 408,
+        "COVID-19": 220,
+        "H1N1": 46,
+        "Typhoid": 839,
+        "Chikungunya": 119
+      },
+      "total_cases": 1997,
+      "blood_groups_affected": {
+        "A+": 623,
+        "A-": 106,
+        "B+": 441,
+        "B-": 71,
+        "AB+": 36,
+        "AB-": 33,
+        "O+": 619,
+        "O-": 68
+      }
+    },
+    {
+      "state_name": "Madhya Pradesh",
+      "month": "2025-11",
+      "total_hospitals_reporting": 47,
+      "hospitals_sample": [
+        {
+          "hospital_id": "MAD-001",
+          "reported_cases": 7
+        },
+        {
+          "hospital_id": "MAD-002",
+          "reported_cases": 36
+        },
+        {
+          "hospital_id": "MAD-003",
+          "reported_cases": 13
+        },
+        {
+          "hospital_id": "MAD-004",
+          "reported_cases": 29
+        },
+        {
+          "hospital_id": "MAD-005",
+          "reported_cases": 44
+        }
+      ],
+      "diseases": {
+        "Dengue": 948,
+        "Malaria": 32,
+        "COVID-19": 825,
+        "H1N1": 240,
+        "Typhoid": 227,
+        "Chikungunya": 272
+      },
+      "total_cases": 2544,
+      "blood_groups_affected": {
+        "A+": 661,
+        "A-": 156,
+        "B+": 531,
+        "B-": 89,
+        "AB+": 63,
+        "AB-": 69,
+        "O+": 845,
+        "O-": 130
+      }
+    },
+    {
+      "state_name": "Maharashtra",
+      "month": "2025-11",
+      "total_hospitals_reporting": 58,
+      "hospitals_sample": [
+        {
+          "hospital_id": "MAH-001",
+          "reported_cases": 5
+        },
+        {
+          "hospital_id": "MAH-002",
+          "reported_cases": 17
+        },
+        {
+          "hospital_id": "MAH-003",
+          "reported_cases": 28
+        },
+        {
+          "hospital_id": "MAH-004",
+          "reported_cases": 15
+        },
+        {
+          "hospital_id": "MAH-005",
+          "reported_cases": 48
+        }
+      ],
+      "diseases": {
+        "Dengue": 455,
+        "Malaria": 583,
+        "COVID-19": 237,
+        "H1N1": 133,
+        "Typhoid": 103,
+        "Chikungunya": 279
+      },
+      "total_cases": 1790,
+      "blood_groups_affected": {
+        "A+": 527,
+        "A-": 66,
+        "B+": 380,
+        "B-": 36,
+        "AB+": 25,
+        "AB-": 27,
+        "O+": 656,
+        "O-": 73
+      }
+    },
+    {
+      "state_name": "Manipur",
+      "month": "2025-11",
+      "total_hospitals_reporting": 58,
+      "hospitals_sample": [
+        {
+          "hospital_id": "MAN-001",
+          "reported_cases": 12
+        },
+        {
+          "hospital_id": "MAN-002",
+          "reported_cases": 18
+        },
+        {
+          "hospital_id": "MAN-003",
+          "reported_cases": 14
+        },
+        {
+          "hospital_id": "MAN-004",
+          "reported_cases": 23
+        },
+        {
+          "hospital_id": "MAN-005",
+          "reported_cases": 11
+        }
+      ],
+      "diseases": {
+        "Dengue": 409,
+        "Malaria": 473,
+        "COVID-19": 224,
+        "H1N1": 35,
+        "Typhoid": 55,
+        "Chikungunya": 111
+      },
+      "total_cases": 1307,
+      "blood_groups_affected": {
+        "A+": 337,
+        "A-": 59,
+        "B+": 240,
+        "B-": 45,
+        "AB+": 27,
+        "AB-": 30,
+        "O+": 512,
+        "O-": 57
+      }
+    },
+    {
+      "state_name": "Meghalaya",
+      "month": "2025-11",
+      "total_hospitals_reporting": 7,
+      "hospitals_sample": [
+        {
+          "hospital_id": "MEG-001",
+          "reported_cases": 14
+        },
+        {
+          "hospital_id": "MEG-002",
+          "reported_cases": 18
+        },
+        {
+          "hospital_id": "MEG-003",
+          "reported_cases": 45
+        },
+        {
+          "hospital_id": "MEG-004",
+          "reported_cases": 18
+        },
+        {
+          "hospital_id": "MEG-005",
+          "reported_cases": 44
+        }
+      ],
+      "diseases": {
+        "Dengue": 723,
+        "Malaria": 290,
+        "COVID-19": 106,
+        "H1N1": 283,
+        "Typhoid": 81,
+        "Chikungunya": 446
+      },
+      "total_cases": 1929,
+      "blood_groups_affected": {
+        "A+": 595,
+        "A-": 92,
+        "B+": 427,
+        "B-": 59,
+        "AB+": 29,
+        "AB-": 30,
+        "O+": 631,
+        "O-": 66
+      }
+    },
+    {
+      "state_name": "Mizoram",
+      "month": "2025-11",
+      "total_hospitals_reporting": 22,
+      "hospitals_sample": [
+        {
+          "hospital_id": "MIZ-001",
+          "reported_cases": 32
+        },
+        {
+          "hospital_id": "MIZ-002",
+          "reported_cases": 34
+        },
+        {
+          "hospital_id": "MIZ-003",
+          "reported_cases": 31
+        },
+        {
+          "hospital_id": "MIZ-004",
+          "reported_cases": 28
+        },
+        {
+          "hospital_id": "MIZ-005",
+          "reported_cases": 5
+        }
+      ],
+      "diseases": {
+        "Dengue": 989,
+        "Malaria": 501,
+        "COVID-19": 231,
+        "H1N1": 97,
+        "Typhoid": 228,
+        "Chikungunya": 256
+      },
+      "total_cases": 2302,
+      "blood_groups_affected": {
+        "A+": 644,
+        "A-": 118,
+        "B+": 435,
+        "B-": 66,
+        "AB+": 47,
+        "AB-": 51,
+        "O+": 835,
+        "O-": 106
+      }
+    },
+    {
+      "state_name": "Nagaland",
+      "month": "2025-11",
+      "total_hospitals_reporting": 30,
+      "hospitals_sample": [
+        {
+          "hospital_id": "NAG-001",
+          "reported_cases": 48
+        },
+        {
+          "hospital_id": "NAG-002",
+          "reported_cases": 35
+        },
+        {
+          "hospital_id": "NAG-003",
+          "reported_cases": 2
+        },
+        {
+          "hospital_id": "NAG-004",
+          "reported_cases": 29
+        },
+        {
+          "hospital_id": "NAG-005",
+          "reported_cases": 5
+        }
+      ],
+      "diseases": {
+        "Dengue": 582,
+        "Malaria": 314,
+        "COVID-19": 253,
+        "H1N1": 127,
+        "Typhoid": 164,
+        "Chikungunya": 287
+      },
+      "total_cases": 1727,
+      "blood_groups_affected": {
+        "A+": 428,
+        "A-": 97,
+        "B+": 290,
+        "B-": 60,
+        "AB+": 35,
+        "AB-": 28,
+        "O+": 727,
+        "O-": 62
+      }
+    },
+    {
+      "state_name": "Odisha",
+      "month": "2025-11",
+      "total_hospitals_reporting": 50,
+      "hospitals_sample": [
+        {
+          "hospital_id": "ODI-001",
+          "reported_cases": 17
+        },
+        {
+          "hospital_id": "ODI-002",
+          "reported_cases": 26
+        },
+        {
+          "hospital_id": "ODI-003",
+          "reported_cases": 30
+        },
+        {
+          "hospital_id": "ODI-004",
+          "reported_cases": 30
+        },
+        {
+          "hospital_id": "ODI-005",
+          "reported_cases": 15
+        }
+      ],
+      "diseases": {
+        "Dengue": 1124,
+        "Malaria": 742,
+        "COVID-19": 200,
+        "H1N1": 82,
+        "Typhoid": 23,
+        "Chikungunya": 174
+      },
+      "total_cases": 2345,
+      "blood_groups_affected": {
+        "A+": 737,
+        "A-": 97,
+        "B+": 456,
+        "B-": 52,
+        "AB+": 34,
+        "AB-": 28,
+        "O+": 878,
+        "O-": 63
+      }
+    },
+    {
+      "state_name": "Punjab",
+      "month": "2025-11",
+      "total_hospitals_reporting": 35,
+      "hospitals_sample": [
+        {
+          "hospital_id": "PUN-001",
+          "reported_cases": 50
+        },
+        {
+          "hospital_id": "PUN-002",
+          "reported_cases": 16
+        },
+        {
+          "hospital_id": "PUN-003",
+          "reported_cases": 21
+        },
+        {
+          "hospital_id": "PUN-004",
+          "reported_cases": 39
+        },
+        {
+          "hospital_id": "PUN-005",
+          "reported_cases": 44
+        }
+      ],
+      "diseases": {
+        "Dengue": 190,
+        "Malaria": 306,
+        "COVID-19": 155,
+        "H1N1": 225,
+        "Typhoid": 276,
+        "Chikungunya": 97
+      },
+      "total_cases": 1249,
+      "blood_groups_affected": {
+        "A+": 297,
+        "A-": 78,
+        "B+": 268,
+        "B-": 40,
+        "AB+": 36,
+        "AB-": 28,
+        "O+": 450,
+        "O-": 52
+      }
+    },
+    {
+      "state_name": "Rajasthan",
+      "month": "2025-11",
+      "total_hospitals_reporting": 21,
+      "hospitals_sample": [
+        {
+          "hospital_id": "RAJ-001",
+          "reported_cases": 42
+        },
+        {
+          "hospital_id": "RAJ-002",
+          "reported_cases": 0
+        },
+        {
+          "hospital_id": "RAJ-003",
+          "reported_cases": 29
+        },
+        {
+          "hospital_id": "RAJ-004",
+          "reported_cases": 18
+        },
+        {
+          "hospital_id": "RAJ-005",
+          "reported_cases": 43
+        }
+      ],
+      "diseases": {
+        "Dengue": 129,
+        "Malaria": 605,
+        "COVID-19": 156,
+        "H1N1": 761,
+        "Typhoid": 395,
+        "Chikungunya": 259
+      },
+      "total_cases": 2305,
+      "blood_groups_affected": {
+        "A+": 751,
+        "A-": 129,
+        "B+": 413,
+        "B-": 78,
+        "AB+": 41,
+        "AB-": 41,
+        "O+": 749,
+        "O-": 103
+      }
+    },
+    {
+      "state_name": "Sikkim",
+      "month": "2025-11",
+      "total_hospitals_reporting": 54,
+      "hospitals_sample": [
+        {
+          "hospital_id": "SIK-001",
+          "reported_cases": 42
+        },
+        {
+          "hospital_id": "SIK-002",
+          "reported_cases": 43
+        },
+        {
+          "hospital_id": "SIK-003",
+          "reported_cases": 8
+        },
+        {
+          "hospital_id": "SIK-004",
+          "reported_cases": 40
+        },
+        {
+          "hospital_id": "SIK-005",
+          "reported_cases": 6
+        }
+      ],
+      "diseases": {
+        "Dengue": 146,
+        "Malaria": 708,
+        "COVID-19": 139,
+        "H1N1": 634,
+        "Typhoid": 1020,
+        "Chikungunya": 172
+      },
+      "total_cases": 2819,
+      "blood_groups_affected": {
+        "A+": 722,
+        "A-": 136,
+        "B+": 657,
+        "B-": 118,
+        "AB+": 71,
+        "AB-": 74,
+        "O+": 889,
+        "O-": 152
+      }
+    },
+    {
+      "state_name": "Tamil Nadu",
+      "month": "2025-11",
+      "total_hospitals_reporting": 24,
+      "hospitals_sample": [
+        {
+          "hospital_id": "TAM-001",
+          "reported_cases": 31
+        },
+        {
+          "hospital_id": "TAM-002",
+          "reported_cases": 7
+        },
+        {
+          "hospital_id": "TAM-003",
+          "reported_cases": 6
+        },
+        {
+          "hospital_id": "TAM-004",
+          "reported_cases": 15
+        },
+        {
+          "hospital_id": "TAM-005",
+          "reported_cases": 34
+        }
+      ],
+      "diseases": {
+        "Dengue": 885,
+        "Malaria": 242,
+        "COVID-19": 125,
+        "H1N1": 55,
+        "Typhoid": 193,
+        "Chikungunya": 670
+      },
+      "total_cases": 2170,
+      "blood_groups_affected": {
+        "A+": 534,
+        "A-": 94,
+        "B+": 496,
+        "B-": 65,
+        "AB+": 48,
+        "AB-": 47,
+        "O+": 814,
+        "O-": 72
+      }
+    },
+    {
+      "state_name": "Telangana",
+      "month": "2025-11",
+      "total_hospitals_reporting": 55,
+      "hospitals_sample": [
+        {
+          "hospital_id": "TEL-001",
+          "reported_cases": 21
+        },
+        {
+          "hospital_id": "TEL-002",
+          "reported_cases": 15
+        },
+        {
+          "hospital_id": "TEL-003",
+          "reported_cases": 8
+        },
+        {
+          "hospital_id": "TEL-004",
+          "reported_cases": 50
+        },
+        {
+          "hospital_id": "TEL-005",
+          "reported_cases": 36
+        }
+      ],
+      "diseases": {
+        "Dengue": 535,
+        "Malaria": 1382,
+        "COVID-19": 159,
+        "H1N1": 710,
+        "Typhoid": 210,
+        "Chikungunya": 60
+      },
+      "total_cases": 3056,
+      "blood_groups_affected": {
+        "A+": 988,
+        "A-": 119,
+        "B+": 501,
+        "B-": 88,
+        "AB+": 43,
+        "AB-": 49,
+        "O+": 1151,
+        "O-": 117
+      }
+    },
+    {
+      "state_name": "Tripura",
+      "month": "2025-11",
+      "total_hospitals_reporting": 25,
+      "hospitals_sample": [
+        {
+          "hospital_id": "TRI-001",
+          "reported_cases": 24
+        },
+        {
+          "hospital_id": "TRI-002",
+          "reported_cases": 38
+        },
+        {
+          "hospital_id": "TRI-003",
+          "reported_cases": 33
+        },
+        {
+          "hospital_id": "TRI-004",
+          "reported_cases": 18
+        },
+        {
+          "hospital_id": "TRI-005",
+          "reported_cases": 29
+        }
+      ],
+      "diseases": {
+        "Dengue": 445,
+        "Malaria": 340,
+        "COVID-19": 135,
+        "H1N1": 83,
+        "Typhoid": 534,
+        "Chikungunya": 52
+      },
+      "total_cases": 1589,
+      "blood_groups_affected": {
+        "A+": 485,
+        "A-": 72,
+        "B+": 267,
+        "B-": 36,
+        "AB+": 34,
+        "AB-": 30,
+        "O+": 607,
+        "O-": 58
+      }
+    },
+    {
+      "state_name": "Uttar Pradesh",
+      "month": "2025-11",
+      "total_hospitals_reporting": 60,
+      "hospitals_sample": [
+        {
+          "hospital_id": "UTT-001",
+          "reported_cases": 42
+        },
+        {
+          "hospital_id": "UTT-002",
+          "reported_cases": 48
+        },
+        {
+          "hospital_id": "UTT-003",
+          "reported_cases": 27
+        },
+        {
+          "hospital_id": "UTT-004",
+          "reported_cases": 46
+        },
+        {
+          "hospital_id": "UTT-005",
+          "reported_cases": 3
+        }
+      ],
+      "diseases": {
+        "Dengue": 563,
+        "Malaria": 449,
+        "COVID-19": 85,
+        "H1N1": 171,
+        "Typhoid": 295,
+        "Chikungunya": 31
+      },
+      "total_cases": 1594,
+      "blood_groups_affected": {
+        "A+": 498,
+        "A-": 72,
+        "B+": 272,
+        "B-": 53,
+        "AB+": 36,
+        "AB-": 39,
+        "O+": 561,
+        "O-": 63
+      }
+    },
+    {
+      "state_name": "Uttarakhand",
+      "month": "2025-11",
+      "total_hospitals_reporting": 37,
+      "hospitals_sample": [
+        {
+          "hospital_id": "UTT-001",
+          "reported_cases": 7
+        },
+        {
+          "hospital_id": "UTT-002",
+          "reported_cases": 22
+        },
+        {
+          "hospital_id": "UTT-003",
+          "reported_cases": 27
+        },
+        {
+          "hospital_id": "UTT-004",
+          "reported_cases": 7
+        },
+        {
+          "hospital_id": "UTT-005",
+          "reported_cases": 18
+        }
+      ],
+      "diseases": {
+        "Dengue": 255,
+        "Malaria": 704,
+        "COVID-19": 41,
+        "H1N1": 26,
+        "Typhoid": 240,
+        "Chikungunya": 165
+      },
+      "total_cases": 1431,
+      "blood_groups_affected": {
+        "A+": 405,
+        "A-": 70,
+        "B+": 269,
+        "B-": 29,
+        "AB+": 16,
+        "AB-": 20,
+        "O+": 570,
+        "O-": 52
+      }
+    },
+    {
+      "state_name": "West Bengal",
+      "month": "2025-11",
+      "total_hospitals_reporting": 58,
+      "hospitals_sample": [
+        {
+          "hospital_id": "WES-001",
+          "reported_cases": 44
+        },
+        {
+          "hospital_id": "WES-002",
+          "reported_cases": 23
+        },
+        {
+          "hospital_id": "WES-003",
+          "reported_cases": 5
+        },
+        {
+          "hospital_id": "WES-004",
+          "reported_cases": 27
+        },
+        {
+          "hospital_id": "WES-005",
+          "reported_cases": 6
+        }
+      ],
+      "diseases": {
+        "Dengue": 659,
+        "Malaria": 662,
+        "COVID-19": 882,
+        "H1N1": 160,
+        "Typhoid": 33,
+        "Chikungunya": 42
+      },
+      "total_cases": 2438,
+      "blood_groups_affected": {
+        "A+": 660,
+        "A-": 92,
+        "B+": 543,
+        "B-": 52,
+        "AB+": 47,
+        "AB-": 47,
+        "O+": 909,
+        "O-": 88
+      }
+    }
+  ]
+}
